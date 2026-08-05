@@ -4,9 +4,8 @@ A full-stack web-based implementation of the classic Pong game with modern featu
 
 <div>
 
-![ft_transcendence Banner](.img/home.png)
+![ft_transcendence Banner](.git-medias/home.gif)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.0+-darkgreen.svg)](https://www.djangoproject.com/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)](https://www.docker.com/)
@@ -268,7 +267,7 @@ ft_transcendence/
 │   │   └── pong-cli/               # CLI Pong player
 │   ├── docker-compose-prod.yml     # Production Docker setup
 │   └── .env                        # Environment variables
-├── .img/                           # Screenshots & images
+├── .git-medias/                           # Screenshots & images
 ├── launch.d/                       # Startup scripts
 ├── Makefile                        # Build automation
 ├── README.md                       # This file
@@ -306,19 +305,19 @@ For detailed endpoint documentation, see the API documentation files.
 ## 🎬 Screenshots
 
 ### Home Page
-![Home Page](.img/home.png)
+![Home Page](.git-medias/home.png)
 
 ### Custom Lobby
-![Custom Lobby](.img/custom_lobby.png)
+![Custom Lobby](.git-medias/custom_lobby.png)
 
 ### Profile Management
-![Profile Pictures](.img/chnage_profile_pictures.png)
+![Profile Pictures](.git-medias/chnage_profile_pictures.png)
 
 ### Notifications
-![Notifications](.img/notification.png)
+![Notifications](.git-medias/notification.png)
 
 ### Friend System
-![Friend Requests](.img/receive_friend_requests.png)
+![Friend Requests](.git-medias/receive_friend_requests.png)
 
 ---
 
